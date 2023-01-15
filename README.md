@@ -1,7 +1,7 @@
 # Ymaps Reviews App
 
 ## Description
-A web app allowing you to leave reviews on places using Yandex Map API. To leave a comment just click on the map and a review form will open. After you have submitted the form, a placemark appearce. By clicking on this placemark, the other users will see your review. If there are a few reviews on one place, the placemark displays the number of reviews left.
+A web app allowing you to leave reviews on places using Yandex Map API. To leave a comment just click on the map and a review form will open. After you have submitted the form, a placemark appears. By clicking on this placemark, the other users will see your review. If there are a few reviews on one place, the placemark displays the number of reviews left.
 
 
 <p align="center">
