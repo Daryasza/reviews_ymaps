@@ -9,7 +9,7 @@ A web app allowing you to leave reviews on places using Yandex Map API. To leave
 <img height="200" alt="Screenshot 2022-11-22 at 20 21 48" src="https://user-images.githubusercontent.com/92443952/203381829-0d758a39-e83a-455f-ba8f-b94cb7261f34.png">
 
 </p>
-All the comments left are get back after reload. The app uses localstorage for storaging of data. 
+All the comments left are get back after reload. The app uses localstorage to storage you data. 
 
 
 ## Instructions: 
